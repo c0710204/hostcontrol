@@ -1,0 +1,11 @@
+{
+    "name": "c0710204/hostcontrol",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Xiang Gu",
+            "email": "c0710204@gmail.com"
+        }
+    ],
+    "require": {}
+}
